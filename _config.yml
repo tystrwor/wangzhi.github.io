@@ -6,10 +6,10 @@ SEOTitle: 你的博客 | You Blog    	 #显示在浏览器上搜索的时候显�
 header-img: img/post-bg-rwd.jpg  	#显示在首页的背景图片
 email: 552059511@qq.com	
 description: "You Blog"  			 #网站介绍
-keyword: "BY, BY Blog, tystrwor的博客, wangzhi, 汪志, iOS, Apple, iPhone" #关键词
+keyword: "BY, BY Blog" #关键词
 url: "https://tystrwor.github.io"          # 这个就是填写你的博客地址
 baseurl: ""      # 这个我们不用填写
 
 sidebar: true                           # 是否开启侧边栏.
 sidebar-about-description: "说点装逼的话。。。"
-sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+sidebar-avatar:/img/avatar-m.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
